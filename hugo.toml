@@ -1,0 +1,4 @@
+baseURL = 'http://nsn39.github.io/'
+languageCode = 'en-us'
+title = 'Nishan Poudel'
+theme = 'ananke'
